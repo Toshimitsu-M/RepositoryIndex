@@ -1,3 +1,3 @@
 # RepositoryIndex
 
-https://toshimitsu-m.github.io/repositoryIndex/index.html
+https://toshimitsu-m.github.io/RepositoryIndex/index.html
