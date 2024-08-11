@@ -1,3 +1,3 @@
-# template
+# RepositoryIndex
 
-https://toshimitsu-m.github.io/template/index.html
+https://toshimitsu-m.github.io/repositoryIndex/index.html
